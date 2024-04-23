@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/adityatomar/.pub-cache/hosted/pub.dev/appcheck-1.0.6/android/src/main/AndroidManifest.xml:1:1-12:12
+INJECTED from /Users/adityatomar/.pub-cache/hosted/pub.dev/appcheck-1.0.6/android/src/main/AndroidManifest.xml:1:1-12:12
+INJECTED from /Users/adityatomar/.pub-cache/hosted/pub.dev/appcheck-1.0.6/android/src/main/AndroidManifest.xml:1:1-12:12
+	package
+		ADDED from /Users/adityatomar/.pub-cache/hosted/pub.dev/appcheck-1.0.6/android/src/main/AndroidManifest.xml:2:5-36
+		INJECTED from /Users/adityatomar/.pub-cache/hosted/pub.dev/appcheck-1.0.6/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/adityatomar/.pub-cache/hosted/pub.dev/appcheck-1.0.6/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/adityatomar/.pub-cache/hosted/pub.dev/appcheck-1.0.6/android/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/adityatomar/.pub-cache/hosted/pub.dev/appcheck-1.0.6/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/adityatomar/.pub-cache/hosted/pub.dev/appcheck-1.0.6/android/src/main/AndroidManifest.xml
+INJECTED from /Users/adityatomar/.pub-cache/hosted/pub.dev/appcheck-1.0.6/android/src/main/AndroidManifest.xml
+INJECTED from /Users/adityatomar/.pub-cache/hosted/pub.dev/appcheck-1.0.6/android/src/main/AndroidManifest.xml
+INJECTED from /Users/adityatomar/.pub-cache/hosted/pub.dev/appcheck-1.0.6/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/adityatomar/.pub-cache/hosted/pub.dev/appcheck-1.0.6/android/src/main/AndroidManifest.xml
+		ADDED from /Users/adityatomar/.pub-cache/hosted/pub.dev/appcheck-1.0.6/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/adityatomar/.pub-cache/hosted/pub.dev/appcheck-1.0.6/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/adityatomar/.pub-cache/hosted/pub.dev/appcheck-1.0.6/android/src/main/AndroidManifest.xml
+		ADDED from /Users/adityatomar/.pub-cache/hosted/pub.dev/appcheck-1.0.6/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/adityatomar/.pub-cache/hosted/pub.dev/appcheck-1.0.6/android/src/main/AndroidManifest.xml

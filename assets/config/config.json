@@ -1,0 +1,20 @@
+{
+    "project_name": "MKGO MOBILE",
+    "env": "dev",
+    "gestion_baseUrl": "https://d-bfm.mk-go.fr/bfm/v2/gestion/",
+    "gestion_apiKey": "c0640203-8b0b-4fa0-917f-8679dbae914c",
+    "planning_baseUrl": "https://d-bfm.mk-go.fr/bfm/v2/planning/",
+    "planning_apiKey": "5f3bb217-deb8-4bca-9ae5-ae16e7139226",
+    "compta_baseUrl": "https://d-bfm.mk-go.fr/bfm/v2/compta/",
+    "compta_apiKey": "3bc44bdd-f1ec-4f44-b7eb-ff71915034c7",
+    "location_duration": "3",
+    "pushNotifcation_baseUrl": "",
+    "fcm_baseUrl": "",
+    "mapBox_accessToken": "pk.eyJ1IjoiaW5ub3lhZGV2IiwiYSI6ImNsbWk5bzhyNzMxd2YzY281ZDJpdWhndnkifQ.B7Oh675VfADoXUWA0ZzVEw",
+    "mapBox_styleUrl": "https://api.mapbox.com/styles/v1/innoyadev/clq7uacjt003l01qu2kr69pd8/tiles/256/{z}/{x}/{y}@2x?access_token=",
+    "G_reCaptcha_Url": "",
+    "G_reCaptcha_ClienKey": "6LdGHsMoAAAAAMlazy-Pl3usHLVPzs3G4n7iZlFl",
+    "terms_url": "https://d-fe.mk-go.fr/terms",
+    "rgpd_url": "https://d-fe.mk-go.fr/rgpd",
+    "webView_baseURL": "https://d-bfm.mk-go.fr/bfm/v2/gestion/api/webview/file/"
+}
